@@ -1,4 +1,4 @@
-# Basic Project
+# Arrays-and-functions
 ## Basic Project Structure
 
 *Default Structure for A Basic Project*
